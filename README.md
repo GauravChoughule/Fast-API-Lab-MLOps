@@ -66,3 +66,6 @@ Open http://127.0.0.1:8000/docs and try `POST /predict`.
 }
 ```
 Example response: `{"predicted_imdb_rating": 7.4, "verdict": "Good"}` (exact value depends on training)
+
+![Prediction](assets/Fast_API.png)
+![Prediction](assets/Result.png)
